@@ -1,0 +1,3 @@
+.solutions-area [class^="col-"] .wow {
+    height: calc(100% - 30px);
+}
